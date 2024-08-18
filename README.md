@@ -1,0 +1,1 @@
+This is my capstone project for the IBM coursera course in Data Science. I wanted to do this because I will be working on my Master's of Science in Data Science and I felt like this would be a good start before working on my course work. Thank you for reading!!
